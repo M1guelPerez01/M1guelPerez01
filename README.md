@@ -1,7 +1,7 @@
-### Miguel "Enygma" Perez
+### Hello There 👋
+# Miguel "Enygma" Perez
 **`Web/Game Developer`**
 
-# Hello There 👋
 I'm an independent full-stack/game developer and content creator ready to take on the digital world one step at a time.
 
 ---
