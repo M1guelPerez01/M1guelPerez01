@@ -2,7 +2,7 @@
 # Miguel "Enygma" Perez
 **`Web/Game Developer`**
 
-I'm an independent full-stack/game developer and content creator ready to take on the digital world one step at a time.
+I'm an independent full-stack/game developer and content creator ready to take on the digital world one step at a time. I pay atention to the smallest detail of my work and I am always eager to learn new skills and improve my craft as well as helping others do the same. Front-End Development is where I really shine, but I do struggle with Back-End Development.
 
 ---
 
